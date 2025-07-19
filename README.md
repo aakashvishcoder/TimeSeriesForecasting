@@ -16,8 +16,4 @@ The project demonstrates:
 - Scikit-learn (Data Scaling)
 - Matplotlib (Visualization)
 
-## Installation
-'''
-git clone https://github.com/your-username/stock-price-lstm.git
-cd stock-price-lstm
-'''
+
